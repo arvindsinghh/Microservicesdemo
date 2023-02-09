@@ -1,0 +1,8 @@
+#octa configration
+okta:
+  oauth2:
+    issuer: https://dev-87152183.okta.com/oauth2/default
+    audience: api://default
+    client-id: 0oa86f6i01LhudHdR5d7
+    client-secret: cPF553VIKNCzjqyyX3ewJeCISXr0v100hUdAb8H3
+    scopes: openid,profile,email,offline_access
